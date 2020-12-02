@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(int argc, char** argv)
+ {
+	printf("Day1: 10 cents\nDay2: 20 cents\nDay3: 40 cents\nDay4: 80 cents\nDay5: 160 cents\nDay6: 320 cents\nDay7: 640 cents\nDay8: 1,280 cents\nDay9: 2,560 cents\nDay10: 5,120 cents\nDay11: 10,240 cents\nDay12: 20,480 cents\nDay13: 40,960 cents\nDay14: 81,920 cents\nDay15: 1,638.40 cents");
+	return 0;
+}
